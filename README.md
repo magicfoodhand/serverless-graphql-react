@@ -1,5 +1,5 @@
 ## Serverless GraphQL + React
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a7194115-7d33-44aa-a9da-a0b7f3dc2768/deploy-status)](https://app.netlify.com/sites/silly-galileo-db5b9f/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a7194115-7d33-44aa-a9da-a0b7f3dc2768/deploy-status)](https://app.netlify.com/sites/serverless-graphql-react/deploys)
 
 This project is built off of [serverless-graphql](https://github.com/lavabear/serverless-graphql).
 

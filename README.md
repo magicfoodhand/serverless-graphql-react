@@ -24,8 +24,8 @@ All functions (inside `src/lambda`) are compiled with webpack using Babel, so yo
 ```bash
 ## prep steps for first time users
 yarn global add netlify-cli # Make sure you have the [Netlify CLI](https://github.com/netlify/cli) installed
-git clone https://github.com/lavabear/serverless-graphql ## clone this repo
-cd serverless-graphql ## change into this repo
+git clone https://github.com/lavabear/serverless-graphql-react ## clone this repo
+cd serverless-graphql-react ## change into this repo
 yarn # install all dependencies
 
 ## done every time you start up this project

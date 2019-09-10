@@ -1,6 +1,6 @@
-import schema from '../schema'
-import resolvers from '../resolvers'
-import Responses from '../responses'
+import schema from '../api/schema'
+import resolvers from '../api/resolvers'
+import Responses from '../api/responses'
 
 import { graphql } from 'graphql'
 

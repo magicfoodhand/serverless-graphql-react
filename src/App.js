@@ -19,7 +19,7 @@ function graphQLFetcher(graphQLParams) {
 }
 
 const cache = new InMemoryCache();
-const link = new HttpLink()
+const link = new HttpLink({uri: '/.netlify/functions/graphql'})
 
 const client = new ApolloClient({
   cache,

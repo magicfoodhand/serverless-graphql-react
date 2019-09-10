@@ -1,5 +1,5 @@
 {
-  "name": "serverless-graphql",
+  "name": "serverless-graphql-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
